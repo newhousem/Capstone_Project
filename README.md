@@ -63,7 +63,7 @@ Features with the most variations proved to be the most important for the model,
 ![alt text](Images/Florida%20Restaurant%20Orders.png)
 ![alt text](Images/Florida%20with%20SD%20orders.png)
 
-Florida did not implement as many mandates as Colorado. Florida's case rate also looks to steadily rise more than Colorado's case rate. Colorado's case rate seemed to rise after they removed a social distancing gathering mandate. Florida's cases apear to rise after they opened restaurants fully. Both states were affected by the dramatic increase in cases in the US in winter 2020-2021. 
+Florida did not implement as many mandates as Colorado. Florida's case rate also looks to steadily rise more than Colorado's case rate. Colorado's case rate appear to rise after they removed a social distancing gathering mandate. Florida's cases appear to rise after they opened restaurants fully. Both states were affected by the dramatic increase in cases in the US in winter 2020-2021. 
 
 ## Restaurant Mandates by the Numbers
 Florida restaurant orders and the average rate of cases:
@@ -97,6 +97,7 @@ It is interesting to observe the similar case rate when both states were 'Open w
 - However, with the data in two states that implemented mandates very differently, Florida and Colorado, it is clear that mandates may have helped mitigate the impact of the virus.
 - From the model, we can see that the restaurant orders, and the removal of restrictions, in Florida had an impact on the case rate predictions made by the model.  
 - Florida’s restaurant mandates, and lack of mandates, helped the model predict the case rate. This indicates that having restaurants fully reopen, along with no mask mandates, and less gathering bans, may negatively impact COVID case rate. 
+
 *The use of mandates are important, and governments should continue to implement them based on current risks with the current COVID19 pandemic and should use them for pandemics in the future*
 
 ## Next Steps
